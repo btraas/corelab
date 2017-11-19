@@ -10,3 +10,17 @@
 /Users/brayden/Documents/aspnet/corelab/obj/Debug/netcoreapp2.0/corelab.AssemblyInfo.cs
 /Users/brayden/Documents/aspnet/corelab/obj/Debug/netcoreapp2.0/corelab.dll
 /Users/brayden/Documents/aspnet/corelab/obj/Debug/netcoreapp2.0/corelab.pdb
+Z:/Documents/aspnet/corelab/bin/Debug/netcoreapp2.0/app.db
+Z:/Documents/aspnet/corelab/bin/Debug/netcoreapp2.0/corelab.deps.json
+Z:/Documents/aspnet/corelab/bin/Debug/netcoreapp2.0/corelab.runtimeconfig.json
+Z:/Documents/aspnet/corelab/bin/Debug/netcoreapp2.0/corelab.runtimeconfig.dev.json
+Z:/Documents/aspnet/corelab/bin/Debug/netcoreapp2.0/corelab.dll
+Z:/Documents/aspnet/corelab/bin/Debug/netcoreapp2.0/corelab.pdb
+Z:/Documents/aspnet/corelab/obj/Debug/netcoreapp2.0/corelab.csprojResolveAssemblyReference.cache
+Z:/Documents/aspnet/corelab/obj/Debug/netcoreapp2.0/corelab.csproj.CoreCompileInputs.cache
+Z:/Documents/aspnet/corelab/obj/Debug/netcoreapp2.0/UserSecretsAssemblyInfo.cs
+Z:/Documents/aspnet/corelab/obj/Debug/netcoreapp2.0/corelab.AssemblyInfoInputs.cache
+Z:/Documents/aspnet/corelab/obj/Debug/netcoreapp2.0/corelab.AssemblyInfo.cs
+Z:/Documents/aspnet/corelab/obj/Debug/netcoreapp2.0/corelab.dll
+Z:/Documents/aspnet/corelab/obj/Debug/netcoreapp2.0/corelab.pdb
+/Users/brayden/Documents/aspnet/corelab/obj/Debug/netcoreapp2.0/corelab.csprojResolveAssemblyReference.cache
