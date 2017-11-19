@@ -1,0 +1,12 @@
+/Users/brayden/Documents/aspnet/corelab/bin/Debug/netcoreapp2.0/app.db
+/Users/brayden/Documents/aspnet/corelab/bin/Debug/netcoreapp2.0/corelab.deps.json
+/Users/brayden/Documents/aspnet/corelab/bin/Debug/netcoreapp2.0/corelab.runtimeconfig.json
+/Users/brayden/Documents/aspnet/corelab/bin/Debug/netcoreapp2.0/corelab.runtimeconfig.dev.json
+/Users/brayden/Documents/aspnet/corelab/bin/Debug/netcoreapp2.0/corelab.dll
+/Users/brayden/Documents/aspnet/corelab/bin/Debug/netcoreapp2.0/corelab.pdb
+/Users/brayden/Documents/aspnet/corelab/obj/Debug/netcoreapp2.0/corelab.csproj.CoreCompileInputs.cache
+/Users/brayden/Documents/aspnet/corelab/obj/Debug/netcoreapp2.0/UserSecretsAssemblyInfo.cs
+/Users/brayden/Documents/aspnet/corelab/obj/Debug/netcoreapp2.0/corelab.AssemblyInfoInputs.cache
+/Users/brayden/Documents/aspnet/corelab/obj/Debug/netcoreapp2.0/corelab.AssemblyInfo.cs
+/Users/brayden/Documents/aspnet/corelab/obj/Debug/netcoreapp2.0/corelab.dll
+/Users/brayden/Documents/aspnet/corelab/obj/Debug/netcoreapp2.0/corelab.pdb
